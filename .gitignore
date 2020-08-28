@@ -36,6 +36,9 @@ stack*.yaml.lock
 # Shake build system
 .shake
 
+# Built site
+docs/
+
 # VSCode
 .vscode/*
 !.vscode/settings.json
