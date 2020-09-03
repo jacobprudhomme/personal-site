@@ -1,19 +1,19 @@
-name:                slick-template
+name:                personal-site
 version:             0.1.0.0
-github:              "Me/my-site"
+github:              "jacobprudhomme/personal-site"
 license:             BSD3
-author:              "Me"
-maintainer:          "example@example.com"
-copyright:           "20XX Me"
+author:              "Jacob Prud'homme"
+maintainer:          "jacob.pkmn@gmail.com"
+copyright:           "2020 Jacob Prud'homme"
 
 extra-source-files:
 - README.md
 - ChangeLog.md
 
-synopsis:            My site built with slick!
+synopsis:            My personal website, built with Slick
 category:            Slick-Site
 
-description: My slick Site
+description:         The configuration for Slick, the SSG that builds my personal website
 
 executables:
   build-site:
