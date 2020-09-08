@@ -1,36 +1,4 @@
 /* Variables */
-html {
-  font-family: georgia, serif;
-  color: #333;
-  background: #FFFFFC;
-  background: -webkit-linear-gradient(top, #EEE 0%, #FFF 10%, #FFF 90%, #EEE 100%);
-  background: linear-gradient(to bottom, #EEE 0%, #FFF 10%, #FFF 90%, #EEE 100%);
-  background-attachment: fixed;
-  height: 100%;
-  width: 100%;
-  z-index: -10; }
-  html.dark {
-    background: #333;
-    background: -webkit-linear-gradient(top, #2a2a2a 0%, #333 10%, #333 90%, #2a2a2a 100%);
-    background: linear-gradient(to bottom, #2a2a2a 0%, #333 10%, #333 90%, #2a2a2a 100%);
-    background-attachment: fixed;
-    width: 100%;
-    height: 100%;
-    color: #DDD; }
-
-body {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-flow: column nowrap;
-      -ms-flex-flow: column nowrap;
-          flex-flow: column nowrap;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center; }
-
 h2 {
   font-family: inherit;
   font-size: 1.25em;
