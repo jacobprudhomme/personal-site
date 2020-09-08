@@ -35,3 +35,4 @@ executables:
     - aeson
     - lens-aeson
     - time
+    - clay

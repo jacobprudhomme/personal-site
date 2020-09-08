@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 749a067014c643de1b0ae60a7a175c9a23ddbcdeecffd8b9988dc32916ad9dc8
+-- hash: dd1e6693d559efcfddc5624e9cc224753530841e5968dca916bfc2598fc03c30
 
 name:           personal-site
 version:        0.1.0.0
@@ -37,6 +37,7 @@ executable build-site
   build-depends:
       aeson
     , base >=4.7 && <5
+    , clay
     , containers
     , lens
     , lens-aeson
